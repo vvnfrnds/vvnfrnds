@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Vivian Joyson Fernandes
 
-<!--
-**vvnfrnds/vvnfrnds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a DevOps Engineer with 9+ years of hands-on experience in building cloud infrastructure, managing Kubernetes clusters, and automating CI/CD workflows across Azure and AWS.
 
-Here are some ideas to get you started:
+## 🔧 Technologies I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ **DevOps & Cloud**: Azure, AWS, AKS, EKS, ECS Fargate, Terraform, Ansible, Helm  
+- 🚀 **CI/CD & Automation**: Jenkins, Azure Pipelines, GitHub Actions, ArgoCD (GitOps)  
+- 📦 **Containerization & Orchestration**: Docker, Kubernetes  
+- 🔍 **Monitoring & Security**: Prometheus, Grafana, CloudWatch, Trivy, SonarQube  
+- 💻 **Languages**: Bash, Python  
+- 🌐 **Web Stack (Projects)**: Node.js, React, MongoDB  
+
+## 🔥 Featured Projects
+
+- **IoT Cloud Deployment on AKS & EKS** – Full Kubernetes deployment with GitOps and Helm for scalable IoT solution  
+- **Cost Optimization with Azure Blob & Serverless** – Triggered Python-based Azure Functions for reducing blob size  
+- **Infrastructure-as-Code with Terraform** – Full IaC management for secure and compliant environments on Azure & AWS  
+- **CI/CD for Microservices** – Implemented robust pipelines reducing release time by 20%  
+
+## 📫 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/vivian-joyson-fernandes-695454234)  
+- 📝 [My Blog](https://vivianfernandes.hashnode.dev)  
+- 💻 [GitHub Repos](https://github.com/vvnfrnds)  
+
+🚀 Actively looking for DevOps Engineer roles — open to remote and UAE-based opportunities!
