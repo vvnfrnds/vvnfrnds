@@ -7,9 +7,9 @@ I'm a DevOps Engineer with 9+ years of hands-on experience in building cloud inf
 - 🛠️ **DevOps & Cloud**: Azure, AWS, AKS, EKS, ECS Fargate, Terraform, Ansible, Helm  
 - 🚀 **CI/CD & Automation**: Jenkins, Azure Pipelines, GitHub Actions, ArgoCD (GitOps)  
 - 📦 **Containerization & Orchestration**: Docker, Kubernetes  
-- 🔍 **Monitoring & Security**: Prometheus, Grafana, CloudWatch, Trivy, SonarQube  
+- 🔍 **Monitoring & Security**: Prometheus, Grafana, Loki, CloudWatch, Trivy, SonarQube  
 - 💻 **Languages**: Bash, Python  
-- 🌐 **Web Stack (Projects)**: Node.js, React, MongoDB  
+- 🌐 **Web Stack (Projects)**: Node.js, React, MongoDB, Python  
 
 ## 🔥 Featured Projects
 
